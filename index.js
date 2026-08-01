@@ -15,7 +15,7 @@ function Recipe()
   <img className="card-img-top" src="image1.jpg" alt="CHICKEN NOODLES SOUP"/>
   <div className="card-body">
     <div className="card-body">
-  <h5 className="card-title">CHICKEN NOODLE SOUP</h5>
+  <h1 className="card-title">CHICKEN NOODLE SOUP</h1>
 
   <ul className="list-group list-group-flush"></ul>
      <ul className="list-group list-group-flush">
