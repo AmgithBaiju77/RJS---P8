@@ -38,7 +38,7 @@ function Recipe()
 <div className="col-4">
 
 <div className="card" style={{width: "18rem;"}}>
-  <img className="card-img-top" src="image2.jpg" alt="CURRIED EGG SALAD"/>
+  <img className="card-img-top" src="img2.jpg" alt="CURRIED EGG SALAD"/>
   <div className="card-body">
     <div className="card-body">
   <h5 className="card-title">CURRIED EGG SALAD</h5>
