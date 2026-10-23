@@ -83,7 +83,7 @@ function Recipe() {
             />
 
             <div className="card-body">
-              <h5 className="card-title">OAT CLUSTERS</h5>
+              <h5 className="card-title">Oat Cluster</h5>
 
               <ul className="list-group list-group-flush">
                 <li className="list-group-item">12 hard boiled eggs</li>
