@@ -1,4 +1,4 @@
-```jsx
+
 // TODO 1:
 // Create a Recipe component.
 
@@ -92,5 +92,25 @@ function Recipe() {
               </ul>
 
               <p className="card-text">
-                Cru
-```
+                Crunchy oat clusters for a delicious snack.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  );
+}
+
+// TODO 2:
+// Create the React Root.
+
+const root = ReactDOM.createRoot(
+  document.getElementById("root")
+);
+
+// TODO 3:
+// Render the Recipe component.
+
+root.render(<Recipe />);
