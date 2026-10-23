@@ -51,7 +51,7 @@ function Recipe() {
             />
 
             <div className="card-body">
-              <h5 className="card-title">CURRIED EGG SALAD</h5>
+              <h5 className="card-title">Curried Egg</h5>
 
               <ul className="list-group list-group-flush">
                 <li className="list-group-item">12 hard boiled eggs</li>
