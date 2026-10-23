@@ -20,18 +20,9 @@ function Recipe() {
               <h1 className="card-title">Chicken Noodles Soup</h1>
 
               <ul className="list-group list-group-flush">
-                <li className="list-group-item">
-                  2 Tablespoons extra virgin olive oil
-                </li>
-                <li className="list-group-item">1 yellow onion</li>
-                <li className="list-group-item">2 medium carrots</li>
-                <li className="list-group-item">2 stalk celery</li>
-                <li className="list-group-item">8 cups chiken broth</li>
-                <li className="list-group-item">
-                  1(16 oz) package wide egg noodles
-                </li>
-                <li className="list-group-item">1 cup cooked chiken</li>
-              </ul>
+  <li className="list-group-item">1 yellow onion</li>
+  <li className="list-group-item">2 medium carrots</li>
+</ul>
 
               <p className="card-text">
                 Some quick example text to build on the card title and make up
@@ -54,16 +45,9 @@ function Recipe() {
               <h5 className="card-title">Curried Egg</h5>
 
               <ul className="list-group list-group-flush">
-                <li className="list-group-item">12 hard boiled eggs</li>
-                <li className="list-group-item">1/2</li>
-                <li className="list-group-item">2 medium carrots</li>
-                <li className="list-group-item">2 stalk celery</li>
-                <li className="list-group-item">8 cups chiken broth</li>
-                <li className="list-group-item">
-                  1(16 oz) package wide egg noodles
-                </li>
-                <li className="list-group-item">1 cup cooked chiken</li>
-              </ul>
+  <li className="list-group-item">1 yellow onion</li>
+  <li className="list-group-item">2 medium carrots</li>
+</ul>
 
               <p className="card-text">
                 Some quick example text to build on the card title and make up
@@ -85,17 +69,10 @@ function Recipe() {
             <div className="card-body">
               <h5 className="card-title">Oat Cluster</h5>
 
-              <ul className="list-group list-group-flush">
-                <li className="list-group-item">12 hard boiled eggs</li>
-                <li className="list-group-item">1/2</li>
-                <li className="list-group-item">2 medium carrots</li>
-                <li className="list-group-item">2 stalk celery</li>
-                <li className="list-group-item">8 cups chiken broth</li>
-                <li className="list-group-item">
-                  1(16 oz) package wide egg noodles
-                </li>
-                <li className="list-group-item">1 cup cooked chiken</li>
-              </ul>
+           <ul className="list-group list-group-flush">
+  <li className="list-group-item">1 yellow onion</li>
+  <li className="list-group-item">2 medium carrots</li>
+</ul>
 
               <p className="card-text">
                 Some quick example text to build on the card title and make up
